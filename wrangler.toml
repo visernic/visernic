@@ -1,5 +1,6 @@
 name = "visernic"
 main = "src/index.js"
+type = "javascript"
 account_id = "a9e748d7394ea33d057449bc0e8a29a4"
 workers_dev = true
 compatibility_date = "2025-08-25"
