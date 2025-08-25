@@ -1,3 +1,9 @@
+/**
+ * Visernic Landing Page Worker
+ * Professional static landing page with SEO, FAQ, and structured sections.
+ */
+
+const html = `<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8"/>
